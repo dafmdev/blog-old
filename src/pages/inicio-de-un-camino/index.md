@@ -14,6 +14,10 @@ Como dice la profesora del [Curso de Estrategias para Aprender en Línea Efectiv
 
 Por el momento, el primer reto de esta semana es tomar el [Curso de Pensamiento Lógico](https://platzi.com/clases/pensamiento-logico/). ¡Les contaré que aprendí y como me fue!
 
+<<<<<<< HEAD
 ![enter image description here](./pensa_logico)
+=======
+![enter image description here](https://i.imgur.com/K2NSv1r.png)
+>>>>>>> f880828590eab61cf9f130d1147f7390c5f07b14
 
 [Ver uso de notación matematica](/uso-notacion-matematica/)
