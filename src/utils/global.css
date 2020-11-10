@@ -29,7 +29,7 @@ body.dark {
   --textLink: var(--blue);
   --hr: hsla(0, 0%, 100%, 0.2);
   --inlineCode-bg: rgba(115, 124, 153, 0.2);
-  --inlineCode-text: #e6e6e6;
+  --inlineCode-text: #8abdff;
   --form-shadow: 0 2px 15px 0 rgba(26, 26, 27, 0.637);
 }
 

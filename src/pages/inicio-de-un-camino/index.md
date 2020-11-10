@@ -12,6 +12,6 @@ Durante todo mi proceso de aprendizaje usaré mi blog personal, aquí iré dejan
 
 Como dice la profesora del [Curso de Estrategias para Aprender en Línea Efectivamente](https://platzi.com/cursos/aprender/) la mejor forma de saber que sabes, es enseñando. Entonces, en ese orden de idas, mi intención es también ir compartiendo conocimiento en esta bitácora.
 
-Por el momento, el primer reto de esta semana es tomar el [Curso de Pensamiento Lógico](https://platzi.com/clases/pensamiento-logico/). ¡Les contaré que aprendí y como me fue!
+Por el momento, el primer reto de esta semana es tomar el [Curso de Pensamiento Lógico](https://platzi.com/clases/pensamiento-logico/). ¡Les contaré que aprendí y como me fue! [Aquí](/uso-notacion-matematica/)
 
-[Ver uso de notación matematica](/uso-notacion-matematica/)
+![imagen_matematica](./pensa_logico.png)
