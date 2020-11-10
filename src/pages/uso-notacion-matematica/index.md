@@ -48,11 +48,11 @@ Cómo pueden observar cuando se usa $\LaTeX$, queda mucho más profesional y cor
 
 También pueden usar estos códigos en Notion, solo deben poner `/`esta barra que indica que van a ingresar un bloque especial y escriben `/latex`, les debe salir algo como esto:
 
-![enter image description here](https://i.imgur.com/VI40k0n.png)
+![enter image description here](./notion1.png)
 
 Luego ponen el código en formato LaTeX y Notion automáticamente mostrara la ecuación matemática renderizada así:
 
-![enter image description here](https://i.imgur.com/6C4JPKm.png)
+![enter image description here](./notion2.png)
 
 De esta forma, los apuntes matemáticos serán mucho más claros y de mayor calidad. Ver la matemática bien escrita no solo es bonito da gusto verla.
 Les dejo esta [pagina](https://manualdelatex.com/) web, que les podrá servir como diccionario para símbolos especiales en $\LaTeX$. Y esta [otra](https://katex.org/docs/supported.html) en caso de que estén usando Notion para crear la bitácora.
