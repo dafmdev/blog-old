@@ -181,11 +181,11 @@ class BlogPostTemplate extends React.Component {
             <footer>
               <p>
                 <a href={discussUrl} target="_blank" rel="noopener noreferrer">
-                  Discuss on Twitter
+                  Discutir en Twitter
                 </a>
                 {` • `}
                 <a href={editUrl} target="_blank" rel="noopener noreferrer">
-                  Edit on GitHub
+                  Editar en GitHub
                 </a>
               </p>
             </footer>
