@@ -1,5 +1,5 @@
 {
-  "name": "mirincon",
+  "name": "dafmdev",
   "private": true,
   "engines": {
     "node": "12.x"
@@ -8,7 +8,7 @@
   "version": "1.0.0",
   "author": "Daniel Franco <fdf92444@gmail.com>",
   "bugs": {
-    "url": "https://github.com/fdf92441/mirincon/issues"
+    "url": "https://github.com/dafmdev/dafmdev/issues"
   },
   "dependencies": {
     "@debiki/gatsby-plugin-talkyard": "^0.5.8",
@@ -52,7 +52,7 @@
     "glob": "^7.1.3",
     "prettier": "^1.14.2"
   },
-  "homepage": "https://mirincon.me",
+  "homepage": "https://dafm.dev/",
   "license": "MIT",
   "scripts": {
     "dev": "gatsby develop",
@@ -62,7 +62,7 @@
     "start": "npm run develop",
     "build": "rm -rf public && rm -rf .cache && gatsby build",
     "now-build": "gatsby build",
-    "deploy": "yarn build && cp now.json public/ && cd public && now alias $(now) mirincon.me",
+    "deploy": "yarn build && cp now.json public/ && cd public && now alias $(now) dafm.dev",
     "dry": "yarn build && cp now.json public/ && cd public && now",
     "js-to-jsx": "node src/utils/js-to-jsx"
   },

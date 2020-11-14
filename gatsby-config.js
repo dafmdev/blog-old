@@ -3,9 +3,9 @@ module.exports = {
     title: 'Rincón de un aprendiz',
     author: 'Daniel Franco',
     description: 'Blog personal de Daniel Franco. Mi Science Journals.',
-    siteUrl: 'https://mirincon.me',
+    siteUrl: 'https://dafm.dev',
     social: {
-      twitter: '@fdf9244',
+      twitter: '@dafmdev',
     },
   },
   pathPrefix: '/',
@@ -88,7 +88,7 @@ module.exports = {
               return allMarkdownRemark.edges.map(edge => {
                 const siteUrl = site.siteMetadata.siteUrl;
                 const postText = `
-                <div style="margin-top=55px; font-style: italic;">(This is an article posted to my blog at mirincon.me. You can read it online by <a href="${siteUrl +
+                <div style="margin-top=55px; font-style: italic;">(This is an article posted to my blog at dafmdev.me. You can read it online by <a href="${siteUrl +
                   edge.node.fields.slug}">clicking here</a>.)</div>
               `;
 
@@ -141,7 +141,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-ebook`,
       options: {
-        filename: 'mirincon-ebook.epub',
+        filename: 'dafmdev-ebook.epub',
         query: `
           {
             site {
@@ -172,8 +172,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `mirincon`,
-        short_name: `mirincon`,
+        name: `dafmdev`,
+        short_name: `dafmdev`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#ffa7c4`,

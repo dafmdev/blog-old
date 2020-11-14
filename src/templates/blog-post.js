@@ -20,8 +20,8 @@ import "katex/dist/katex.min.css"
 import TalkyardCommentsIframe from '@debiki/gatsby-plugin-talkyard';
 
 
-const GITHUB_USERNAME = 'fdf92441';
-const GITHUB_REPO_NAME = 'mirincon';
+const GITHUB_USERNAME = 'dafmdev';
+const GITHUB_REPO_NAME = 'dafmdev';
 const systemFont = `system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
     "Droid Sans", "Helvetica Neue", sans-serif`;
@@ -140,7 +140,7 @@ class BlogPostTemplate extends React.Component {
       enSlug.length - 1
     )}/index${lang === 'en' ? '' : '.' + lang}.md`;
     const discussUrl = `https://mobile.twitter.com/search?q=${encodeURIComponent(
-      `https://mirincon.me${enSlug}`
+      `https://dafm.dev${enSlug}`
     )}`;
 
     return (
