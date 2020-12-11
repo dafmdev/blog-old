@@ -4,7 +4,7 @@ date: "2020-11-11T22:12:03.284Z"
 spoiler: "Me pueden llamar Dani, soy contador publico, actualmente dando un paso al mundo de la programación enfocada a la inteligencia artificial, orgulloso de ser parte de la comunidad de Platzi"
 discussionId: "2020-11-11-page-slug"
 ---
-Me llamo Daniel, nací en un pequeño pueblo de Colombia llamado Barbosa, este queda cerca de Medellín. Soy una persona muy curiosa, siempre me gusta saber el por qué de las cosas.
+Me llamo Daniel Franco, nací en un pequeño pueblo de Colombia llamado Barbosa, este queda cerca de Medellín. Soy una persona muy curiosa, siempre me gusta saber el por qué de las cosas.
 
 Mi primer contacto con la tecnología fue cuando tenia unos 7 o 8 años de edad, mi padre compro un computador por el trabajo, no lo podía usar hasta que pasaron unos meses, solo hacía tareas, no tenia internet y use Microsoft Encarta por mucho tiempo.
 
