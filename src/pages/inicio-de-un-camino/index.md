@@ -6,7 +6,7 @@ cta: "react"
 discussionId: "2020-11-03-page-slug"
 ---
 
-Hoy inicia el reto de Platzi Math Academy, un esfuerzo de la comunidad de Platzi para lograr enseñar matemáticas y que muchas personas como yo rompan el hielo con esta gran e importante herramienta, o ciencia.
+Hoy inicia el reto de Platzi Math Academy, un esfuerzo de la comunidad de Platzi para lograr enseñar matemáticas y que muchas personas como yo rompan el hielo con esta gran e importante herramienta o ciencia.
 
 Durante todo mi proceso de aprendizaje usaré mi blog personal, aquí iré dejando mis logros, mis derrotas, mis anhelos, mis frustraciones, pero creo que aún más importante, dejaré guías de lo que he ido aprendiendo.
 
