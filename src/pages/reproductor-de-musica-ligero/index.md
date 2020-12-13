@@ -34,6 +34,6 @@ A nadie le gusta esperar, y no todos tenemos un muy buen computador para que tod
 ## Conclusión
 Luego de estar varios días navegando, y de probar muchas opciones, he tomado al fin una decisión, usar el reproductor llamado [cmus](https://cmus.github.io/), cumple con todas las características que he mencionado.
 
-![enter image description here](./image_cmus.png)
+<p><img src="https://i.imgur.com/B0wAau4.png"></p>
 
 Muy pronto estaré publicando un pequeño tutorial de como fui configurando cmus para que se adapte a mis necesidades, y como fui resolviendo algunos problemas habituales que se me presentaron en el camino.
