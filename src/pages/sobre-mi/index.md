@@ -6,6 +6,8 @@ discussionId: "2020-11-11-page-slug"
 ---
 Me llamo Daniel Franco, nací en un pequeño pueblo de Colombia llamado Barbosa, este queda cerca de Medellín. Soy una persona muy curiosa, siempre me gusta saber el por qué de las cosas.
 
+![imagen1](https://i.imgur.com/xfUR3Ns.jpeg)
+
 Mi primer contacto con la tecnología fue cuando tenia unos 7 o 8 años de edad, mi padre compro un computador por el trabajo, no lo podía usar hasta que pasaron unos meses, solo hacía tareas, no tenia internet y use Microsoft Encarta por mucho tiempo.
 
 Con el pasar de los año, me hice mas habilidoso usando el computador, ya en las clases de tecnología del colegio sabía muchas cosas que mi compañeros no, algunos porque no tenias un computador en su casa, y otros si tenias pero no les interesaba usarlo, por mi parte, amaba la capacidad que este tenia, todo parecía mágico.
