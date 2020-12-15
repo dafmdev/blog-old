@@ -20,7 +20,7 @@ Hola espero este bin git se inicia así: `$ git init`
 
 Para imprimir en python hago así:
 
-```python
+```python{2}
 def run(mensaje):
     print("Hola, {}".format(mensaje))
 
