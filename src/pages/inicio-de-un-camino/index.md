@@ -14,15 +14,4 @@ Como dice la profesora del [Curso de Estrategias para Aprender en Línea Efectiv
 
 Por el momento, el primer reto de esta semana es tomar el [Curso de Pensamiento Lógico](https://platzi.com/clases/pensamiento-logico/). ¡Les contaré que aprendí y como me fue! [Aquí](/uso-notacion-matematica/)
 
-<p><img src="https://i.imgur.com/RoXDphd.png"></p>
-
-Hola espero este bin git se inicia así: `$ git init`
-
-Para imprimir en python hago así:
-
-```python{2}
-def run(mensaje):
-    print("Hola, {}".format(mensaje))
-
-run("Nicoll")
-```
+<p><img src="https://i.imgur.com/RoXDphd.png" alt="" width="250" height="250"></p>
