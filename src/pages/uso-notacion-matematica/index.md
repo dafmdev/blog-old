@@ -2,6 +2,7 @@
 title: Uso de notación matemática
 date: "2020-11-04T22:12:03.284Z"
 spoiler: "Las matemáticas tienen su propio lenguaje, usalo digitalmente en tu blog"
+cta: "react"
 discussionId: "2020-11-04-page-slug2"
 ---
 
@@ -56,3 +57,4 @@ Luego ponen el código en formato LaTeX y Notion automáticamente mostrara la ec
 
 De esta forma, los apuntes matemáticos serán mucho más claros y de mayor calidad. Ver la matemática bien escrita no solo es bonito da gusto verla.
 Les dejo esta [pagina](https://manualdelatex.com/) web, que les podrá servir como diccionario para símbolos especiales en $\LaTeX$. Y esta [otra](https://katex.org/docs/supported.html) en caso de que estén usando Notion para crear la bitácora.
+[Aquí](/uso-notacion-matematica/)
