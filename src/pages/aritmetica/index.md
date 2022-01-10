@@ -5,9 +5,9 @@ spoiler: "Números reales"
 discussionId: "2022-01-10-page-slug"
 ---
 
-# Aritmética
+## Aritmética
 
-## Números reales
+### Números reales
 
 Las matemáticas a lo largo de la historia ha identificado diferentes tipos de números. Es raro que los números no se hayan descubierto todos de golpe, más bien es un proceso lento que se fue dando de acuerdo a la necesidad.
 
@@ -27,8 +27,8 @@ Entonces los números reales $\Reals$ es el conjunto de todos estos números que
 | Propiedad       | Suma              | Multiplicación            | Ejemplos                                           |
 | --------------- | ----------------- | ------------------------- | -------------------------------------------------- |
 | Cerradura       | $a+b \in \reals$  | $a\cdot b \in \reals$     | $3+5=8 \in \mathbb R$                              |
-| Conmutativa     | $a+b=b+a$         | $a\cdot b=b\cdot a$       | $ \frac{1}{2}+\frac{3}{7}=\frac{3}{7}+\frac{1}{2}$ |
-| Asociativa      | $a+(b+c)=(a+b)+c$ | $a(b\cdot c)=(a\cdot b)c$ | $ \sqrt{5}+(3+4)=(\sqrt{5}+3)+4 $                  |
-| Elemento neutro | $a+0=a$           | $a\cdot1=a$               | $ 5+0=5$                                           |
-| Inverso         | $a+(-a)=0$        | $a\cdot\frac{1}{a}=1$     | $ 2+(-2)=0$                                        |
-| Distributiva    | $a(b+c)=ab+ac$    | $a(b+c)=ab+ac$            | $ 2(7+3)=2\cdot7+2\cdot3$                          |
+| Conmutativa     | $a+b=b+a$         | $a\cdot b=b\cdot a$       | $\frac{1}{2}+\frac{3}{7}=\frac{3}{7}+\frac{1}{2}$ |
+| Asociativa      | $a+(b+c)=(a+b)+c$ | $a(b\cdot c)=(a\cdot b)c$ | $\sqrt{5}+(3+4)=(\sqrt{5}+3)+4$                  |
+| Elemento neutro | $a+0=a$           | $a\cdot1=a$               | $5+0=5$                                           |
+| Inverso         | $a+(-a)=0$        | $a\cdot\frac{1}{a}=1$     | $2+(-2)=0$                                        |
+| Distributiva    | $a(b+c)=ab+ac$    | $a(b+c)=ab+ac$            | $2(7+3)=2\cdot7+2\cdot3$                          |
