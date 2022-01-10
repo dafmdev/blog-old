@@ -24,11 +24,11 @@ Entonces los números reales $\Reals$ es el conjunto de todos estos números que
 
 ### Propiedades de los números reales
 
-| Propiedad       | Suma                | Multiplicación              | Ejemplos                                                                                                             |
-| --------------- | ------------------- | --------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Cerradura       | $a+b \in \reals$  | $a\cdot b \in \reals$     | $\begin{gather}    3+5=8 \in \mathbb R \\    (2)(-3)=-6 \in \mathbb R\end{gather}$                                 |
-| Conmutativa     | $a+b=b+a$         | $a\cdot b=b\cdot a$       | $\begin{gather} \frac{1}{2}+\frac{3}{7}=\frac{3}{7}+\frac{1}{2} \\ (2)(\frac{1}{5})=(\frac{1}{5})(2) \end{gather}$ |
-| Asociativa      | $a+(b+c)=(a+b)+c$ | $a(b\cdot c)=(a\cdot b)c$ | $\begin{gather} \sqrt{5}+(3+4)=(\sqrt{5}+3)+4 \\ 3\cdot (2\cdot 5) = (3\cdot 2) \cdot5 \end{gather}$               |
-| Elemento neutro | $a+0=a$           | $a\cdot1=a$               | $\begin{gather} 5+0=5 \\ 7\cdot 1=7 \end{gather}$                                                                  |
-| Inverso         | $a+(-a)=0$        | $a\cdot\frac{1}{a}=1$     | $\begin{gather} 2+(-2)=0 \\ 5\cdot\frac{1}{5}=1 \end{gather}$                                                      |
-| Distributiva    | $a(b+c)=ab+ac$    | $a(b+c)=ab+ac$            | $\begin{gather} 2(7+3)=2\cdot7+2\cdot3 \\ 5\cdot4+5\cdot8=5(4+8) \end{gather}$                                     |
+| Propiedad       | Suma              | Multiplicación            | Ejemplos                                                                                                           |
+| --------------- | ----------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Cerradura       | $a+b \in \reals$  | $a\cdot b \in \reals$     | $$\begin{gather}    3+5=8 \in \mathbb R \\    (2)(-3)=-6 \in \mathbb R\end{gather}$$                                 |
+| Conmutativa     | $a+b=b+a$         | $a\cdot b=b\cdot a$       | $$\begin{gather} \frac{1}{2}+\frac{3}{7}=\frac{3}{7}+\frac{1}{2} \\ (2)(\frac{1}{5})=(\frac{1}{5})(2) \end{gather}$$ |
+| Asociativa      | $a+(b+c)=(a+b)+c$ | $a(b\cdot c)=(a\cdot b)c$ | $$\begin{gather} \sqrt{5}+(3+4)=(\sqrt{5}+3)+4 \\ 3\cdot (2\cdot 5) = (3\cdot 2) \cdot5 \end{gather}$$               |
+| Elemento neutro | $a+0=a$           | $a\cdot1=a$               | $$\begin{gather} 5+0=5 \\ 7\cdot 1=7 \end{gather}$$                                                                  |
+| Inverso         | $a+(-a)=0$        | $a\cdot\frac{1}{a}=1$     | $$\begin{gather} 2+(-2)=0 \\ 5\cdot\frac{1}{5}=1 \end{gather}$$                                                      |
+| Distributiva    | $a(b+c)=ab+ac$    | $a(b+c)=ab+ac$            | $$\begin{gather} 2(7+3)=2\cdot7+2\cdot3 \\ 5\cdot4+5\cdot8=5(4+8) \end{gather}$$                                     |
